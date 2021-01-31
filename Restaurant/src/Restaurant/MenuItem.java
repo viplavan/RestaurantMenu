@@ -54,7 +54,4 @@ public class MenuItem {
         return theItem.getDescription() == getDescription();
     }
 
-    public void printItem() {
-
-    }
-}
+   }
